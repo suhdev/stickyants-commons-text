@@ -2,7 +2,7 @@
   "name": "sa-commons-text",
   "version": "1.0.0",
   "description": "A set of reusable text classes and functions",
-  "main": "index.js",
+  "main": "lib/index.js",
   "scripts": {
     "test": "jest __tests__ --coverage"
   },

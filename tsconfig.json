@@ -1,6 +1,7 @@
 {
     "compilerOptions": {
         "rootDir": "./src", 
+        "outDir": "./lib",
         "module": "commonjs", 
         "lib": [
             "es5",
